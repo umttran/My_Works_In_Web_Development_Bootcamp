@@ -7,7 +7,6 @@ I started to learn to code from scratch with this Bootcamp<br><br>
 
 # Course Content:
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Front-End Web Development`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `HTML 5`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `CSS 3`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Bootstrap 4`
@@ -16,7 +15,6 @@ I started to learn to code from scratch with this Bootcamp<br><br>
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `jQuery`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Bash Command Line`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Git, GitHub and Version Control`
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Backend Web Development`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Node.js`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `NPM`
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Express.js`
