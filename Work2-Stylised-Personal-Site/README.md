@@ -1,7 +1,7 @@
-# What I learned and worked on during this project::
+# What I learned and worked on during this project:
 ### `CSS and CSS types; Inline, Internal and External.`
 ### `CSS Syntax`
-### `CSS Selectors; Classes, Ids`
+### `CSS Selectors; Class, Id`
 ### `I created my own favicon on favicon.cc and add it into website using link tag.`
 ### `HTML Div`
 ### `The Box Model of Website Styling and Margin, Border, Padding`
