@@ -1,0 +1,148 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: 'Indie Flower', cursive
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.img1  {
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  width: 45%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #f1efe9;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2em;
+}
+
+.middle-container {
+  background-color: #f1efe9;
+  padding: 50px 0 20px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left: 300px;
+}
+
+.meslek {
+  font-weight: normal;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted grey 4px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.hr2{
+  border: dotted grey 4px;
+  border-bottom: none;
+  width: 3%;
+  margin: 200px auto 0 auto;
+}
+
+.cm{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.contact-me{
+  padding: 100px;
+}
+
+.butonum {
+	box-shadow: 0 0 0 0 #9fb4f2;
+	background-color:#7892c2;
+	border-radius:13px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px #283966;
+}
+.butonum:hover {
+	background-color:#476e9e;
+}
+.butonum:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #fff;
+  font-family: 'Montserrat',sans-sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.copytight{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
