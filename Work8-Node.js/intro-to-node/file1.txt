@@ -1,0 +1,1 @@
+This file will be copied as file2.txt using with the native node module.
